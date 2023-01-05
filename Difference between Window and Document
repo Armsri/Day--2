@@ -1,0 +1,5 @@
+-> Window is a root object                                   Document is child object of window
+-> Loaded in browser                                         Loaded in window which is loaded in browser
+-> Contains HTML Elements                                    Contains the contents that has to be displayed
+-> Window property cannot be obtaineds by document onject    Document Object can be accessed by window object
+
